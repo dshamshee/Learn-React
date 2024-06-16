@@ -1,8 +1,11 @@
-
+import SayHello from "./SeyHello";
 
 function App() {
   return (
-    <h1>Hello Danish Shamshee</h1>
+    <>
+    <SayHello />
+    <h1>Welcome to React with Vit</h1>
+    </>
   )
 }
 
